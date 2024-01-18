@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+}
+.meme{
+display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    font-family: "Libre Baskerville", serif;
+}
+.barney{
+  border: 10px solid white;
+}
+.poster-text{
+  color: white;
+  display: contents;
+}
+h1{
+  font-size: 70px;
+  color: yellow;
+}
+p{
+  font-size: 25px;
+  align-items: center;
+  /* font-style: italic; */
+  margin-top: -5px;
+}
